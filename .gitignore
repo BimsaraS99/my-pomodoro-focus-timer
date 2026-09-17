@@ -1,0 +1,21 @@
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# The built app (rebuildable from source)
+Pomodoro.exe
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
